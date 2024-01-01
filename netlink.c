@@ -110,7 +110,7 @@ netlink_simple_intf_init(void)
     return 0;
 
 
-    genlmsg_new()
+//    genlmsg_new()
 }
 
 void
