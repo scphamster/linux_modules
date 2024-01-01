@@ -1,5 +1,5 @@
-obj-m := hello.o
-hello-objs := main.o netlink.o genetlink.o
+obj-m := testmodule.o
+testmodule-objs := main.o netlink.o genetlink.o
 
 #EXTRA_CFLAGS += -std=c90
 
